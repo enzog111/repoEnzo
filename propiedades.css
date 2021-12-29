@@ -1,0 +1,13 @@
+h1{
+    display: inline-block;
+    color: aqua;
+    background-color: brown;
+    font-size: 50px ;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+
+body{
+    text-align: center
+}
